@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calmeyohanna | Official Link</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0b0f1a;
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      text-align: center;
+      max-width: 420px;
+      width: 100%;
+      padding: 20px;
+    }
+    img {
+      width: 140px;
+      margin-bottom: 15px;
+    }
+    h1 {
+      margin: 10px 0 5px;
+    }
+    p {
+      color: #ccc;
+      margin-bottom: 25px;
+      font-size: 14px;
+    }
+    a {
+      display: block;
+      background: #f5c76a;
+      color: #000;
+      padding: 14px;
+      margin: 10px 0;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #ffd98a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    
+    <!-- LOGO -->
+    <img src="logo.png" alt="SaSs-hub Logo">
+
+    <h1>Samson Yohanna</h1>
+    <p>
+      Sass-hub Wool Den Wears <br>
+      Good wear • Good feeling • Good looks
+    </p>
+
+    <a href="https://instagram.com/calmeyohanna">Instagram: @calmeyohanna</a>
+    <a href="https://instagram.com/samsonyohanna708">Instagram: @samsonyohanna708</a>
+    <a href="mailto:calmeyohanna357@gmail.com">Email Me</a>
+    <a href="tel:08181498275">Call / WhatsApp</a>
+
+  </div>
+</body>
+</html>
